@@ -1,0 +1,128 @@
+CIS 99 - Undergraduate Research/Independent Study
+CIS 101 - Introduction to Computer  Science: Principles of Information and Computation
+CIS 105 - Computational Data Exploration
+CIS 106 - Visualizing the Past/Peopling the  Past 
+CIS 110 - Introduction to Computer Programming (with Java, for  Beginners)
+CIS 120 - Programming Languages and  Techniques I
+CIS 121 - Programming Languages and Techniques II
+CIS 125 - Technology and Policy  
+CIS 140 - Introduction to Cognitive Science 
+CIS 160 - Mathematical Foundations of Computer Science 
+CIS 190 - C++ Programming 
+CIS 191 - Using and Understanding Unix and Linux 
+CIS 192 - Python Programming
+CIS 193 - C# Programming 
+CIS 194 - Haskell Programming 
+CIS 195 - iPhone Application Development 
+CIS 196 - Ruby on Rails Web Development
+CIS 197 -  JavaScript
+CIS 240 - Introduction to Computer Architecture
+CIS 261 - Discrete Probability, Stochastic Processes, and Statistical  Inference 
+CIS 262 - Automata, Computability, and  Complexity
+CIS 298 - Study Abroad
+CIS 320 - Introduction to Algorithms
+CIS 330 - Design Principles of Information Systems
+CIS 331 -  Intro to Networks and Security
+CIS 334 - Advanced Topics in Algorithms
+CIS 341 - Compilers and Interpreters
+CIS 350 - Software Design/Engineering
+CIS 368 - User Interfaces and the Web 
+CIS 371 - Computer Organization and Design
+CIS 380 - Computer  Operating Systems
+CIS 390 - Robotics
+CIS 398 - Quantum Computer and Information Science
+CIS 400 - Senior Project
+CIS 401 - Senior Project
+CIS 421 - Artificial Intelligence
+CIS 430 - Intro to Human Language Technology
+CIS 441 - Embedded Software for Life-Critical Applications 
+CIS 450 -  Database and Information Systems
+CIS 455 - Internet and Web Systems
+CIS 460 - Interactive Computer Graphics
+CIS 461 - Advanced Computer Graphics
+CIS 462 - Computer Animation 
+CIS 477 - Mathematical Methods/Techniques for Linguistics and Natural  Language Processing
+CIS 480 - Distributed Systems 
+CIS 482 - Logic In  Computer Science
+CIS 497 - Senior  Project (DMD Students only) 
+NETS 112 - Networked Life
+NETS 150:  Market and Social  Systems on the Internet
+NETS 212:  Scalable and Cloud Computing 
+NETS 213: Crowdsourcing & Human Computation 
+NETS 312:  Theory of Network
+NETS 412:  Algorithmic Game Theory
+CIS 500 - Software Foundations 
+CIS 501 - Computer Architecture 
+CIS 502  -   Analysis of Algorithms 
+CIS 505   - Software Systems 
+CIS 510 -  Curves and Surfaces: Theory and Applications 
+CIS 511 -  Theory of Computation 
+CIS 515 -  Fundamentals of Linear Algebra and  Optimization
+CIS 518 - Topics in Logic: Finite Model Theory and  Descriptive Complexity 
+CIS 519  - Introduction to Machine Learning
+CIS 520  - Machine Learning
+CIS 521 - Artificial Intelligence
+CIS 526 - Machine Translation 
+CIS 530 - Computational Linguistics 
+CIS 534 - Multicore Programming and  Architecture 
+CIS 536 -  Computational Biology
+CIS 537 -  Biomedical Image Analysis
+CIS 540  - Principles of Embedded Computation
+CIS 541 - Embedded Software for Life-critical Applications
+CIS 542 - Embedded Systems  Programming
+CIS 550  -  Database and Information Systems 
+CIS 551 - Computer and Network Security 
+CIS  552 - Advanced Programming
+CIS  553 - Networked Systems
+CIS 554 - Programming Paradigms
+CIS 555 - Internet and Web Systems 
+CIS  556 - Cryptography
+CIS 557 - Programming for the Web 
+CIS  558 - Computer Analysis and Modeling of Biological Signals and Systems  (LING 525) 
+CIS 559 - Programming and Problem Solving
+CIS 560 - Interactive Computer Graphics 
+CIS 561 - Advanced Computer Graphics
+CIS 562 - Computer Animation 
+CIS 563 - Physically Based Animation 
+CIS  564 - Game Design and Development 
+CIS 565 -  Gpu Programming and Architecture 
+CIS 568 -  Game Design Practicum 
+CIS 570 - Modern Programming  Language Implementation 
+CIS 571 - Recursion Theory (PHIL  411) 
+CIS 572 - Set Theory (PHIL 413) 
+CIS  573 - Software Engineering 
+CIS 580 - Machine Perception 
+CIS 581-  Computer Vision & Computational Photography 
+CIS  582 - Logic in Computer Science
+CIS 597 -  Master's Thesis  Research 
+CIS 599 - Independent Study for  Master's Students 
+CIS 601 - Advanced Topics in  Computer Architecture
+CIS  610 - Advanced Geometric Methods in Computer Science 
+CIS 613 - Nonlinear Control Theory  (MEAM 613/ESE 617) 
+CIS 620 - Advanced Topics in Artificial  Intelligence 
+CIS 625 - Introduction to  Computational Learning Theory
+CIS 630 - Advanced Topics in Natural Language Processing 
+CIS 635 - Advanced Computational  Biology (BIOL 537) 
+CIS 639 - Statistical Approaches to  Natural Language Understanding 
+CIS  640 - Advanced Topics in Software Systems
+CIS  650 - Advanced Topics in Databases 
+CIS 660 - Advanced Topics in Computer Graphics and Animation 
+CIS 670 - Advanced Topics in Programming  Languages 
+CIS 673 - Computer-Aided Verification 
+CIS 677 - Advanced Topics in  Algorithms And Complexity
+CIS 680 - Advanced Topics in Machine Perception
+CIS 682 - Friendly Logics 
+CIS 700 - Special Topics 
+CIS  800 - PhD Special Topics Seminar
+CIS 895 - Teaching Practicum 
+CIS 899 - Independent Study for  Doctoral Students 
+CIS 990 – Master's Thesis 
+CIS 995 - Dissertation 
+CIS 999 - Thesis/Dissertation  Research for Doctoral Students 
+CIT 590 - Programming Languages and Techniques 
+CIT 591 - Introduction to Software Development
+CIT 592 - Mathematical Foundations of Computer  Science 
+CIT  593 - Introduction to Computer Systems
+CIT 594 - Data Structures & Software Design 
+CIT  595 - Computer Systems Programming
+CIT 596 - Algorithms & Computation
